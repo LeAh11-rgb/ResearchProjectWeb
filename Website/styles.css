@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    padding: 80px; /* Adds padding around the entire body */
+}
+
+p {
+    padding: 10px; /* Adds padding inside each paragraph */
+}
+
+body {
+.button-container {
+    text-align: center; /* Center the button text */
+}
+
+.next-button {
+    padding: 5px 5px; /* Button padding */
+    font-size: 16px; /* Font size */
+    background-color: #ff0000; /* Button background color */
+    color: white;
+    border: 3px solid #e60000; /* Subtly darker red border */
+    border-radius: 10px;
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.next-button:hover {
+    background-color: #8b0000;
+    border-color: #cc0000;/* Darker shade on hover */
+}}
